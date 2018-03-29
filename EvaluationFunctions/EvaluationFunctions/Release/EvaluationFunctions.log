@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  EvaluationFunctions.cpp
+     Creating library D:\work\Synergy\summer_school\EvaluationFunctions\Release\EvaluationFunctions.lib and object D:\work\Synergy\summer_school\EvaluationFunctions\Release\EvaluationFunctions.exp
+  Generating code
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EvaluationFunctions.vcxproj -> D:\work\Synergy\summer_school\EvaluationFunctions\Release\EvaluationFunctions.dll
+  EvaluationFunctions.vcxproj -> D:\work\Synergy\summer_school\EvaluationFunctions\Release\EvaluationFunctions.pdb (Full PDB)
