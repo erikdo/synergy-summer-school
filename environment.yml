@@ -4,8 +4,7 @@ channels:
     - conda-forge
 dependencies:
     - python==3.5.2
-    - numpy 
-    - random
+    - numpy     
     - json
     - matplotlib
     - math 
@@ -16,3 +15,4 @@ dependencies:
     - IPython
     - pip:
         - array
+        - random
