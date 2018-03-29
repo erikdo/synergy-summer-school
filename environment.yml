@@ -1,12 +1,14 @@
+name: synergy
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge
 dependencies:
     - python==3.5.2
+    - numpy
+    - array    
     - random
     - json
-    - numpy 
-    - matplotlib.pyplot 
+    - matplotlib
     - math 
     - deap 
     - ctypes
