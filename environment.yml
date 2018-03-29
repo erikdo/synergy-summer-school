@@ -1,0 +1,16 @@
+channels:
+    - https://conda.anaconda.org/menpo
+    - conda-forge
+dependencies:
+    - python==3.5.2
+    - array
+    - random
+    - json
+    - numpy 
+    - matplotlib.pyplot as plt
+    - math 
+    - deap 
+    - ctypes
+    - ipywidgets 
+    - warnings
+    - IPython
