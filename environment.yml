@@ -7,7 +7,7 @@ dependencies:
     - random
     - json
     - numpy 
-    - matplotlib.pyplot as plt
+    - matplotlib.pyplot 
     - math 
     - deap 
     - ctypes
